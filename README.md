@@ -1,4 +1,4 @@
-# Oi, eu sou o Marcos.
+## Oi, eu sou o Marcos.
 
 - 👨‍💻 Como programador o que eu amo fazer é dar a vida aos meus projetos. 
 - 📚 Sou autônomo nos meus estudos mas faço alguns cursos e bootcamps juntamente da DIO.
